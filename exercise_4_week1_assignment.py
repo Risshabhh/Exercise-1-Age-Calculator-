@@ -103,6 +103,6 @@ drive.mount('/content/drive')
 # Set output file path in Drive
 output_file = "/content/drive/MyDrive/weather_log.csv"
 
-api_key = "855d8e386726c290de4f0da6496791f7"  # API key
+api_key = "your key"  # API key
 # Call your function
 log_weather("Surat", output_file, api_key)
